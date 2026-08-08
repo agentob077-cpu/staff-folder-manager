@@ -1,0 +1,8 @@
+# Operational data — never publish staff records or source spreadsheets
+latest-staff-folder.xlsx
+*.xlsx
+*.xls
+*.csv
+*.json
+__pycache__/
+.DS_Store
